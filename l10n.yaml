@@ -1,0 +1,7 @@
+arb-dir: lib/src/l10n/arb
+template-arb-file: ahc_en.arb
+output-localization-file: activity_heatmap_localizations_gen.dart
+output-class: ActivityHeatmapLocalizationsGen
+output-dir: lib/src/l10n/gen
+nullable-getter: false
+use-escaping: true

@@ -1,0 +1,22 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - lib/src/l10n/gen/**
+    - example/**
+  errors:
+    todo: ignore
+
+linter:
+  rules:
+    - public_member_api_docs
+    - prefer_const_constructors
+    - prefer_const_constructors_in_immutables
+    - prefer_const_declarations
+    - prefer_final_locals
+    - require_trailing_commas
+    - always_declare_return_types
+    - avoid_redundant_argument_values
+    - sort_constructors_first
+    - unnecessary_lambdas
+    - unnecessary_parenthesis

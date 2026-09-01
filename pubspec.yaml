@@ -1,0 +1,33 @@
+name: activity_heatmap_calendar
+description: >-
+  A GitHub-style activity heatmap calendar for Flutter: scrollable, filterable
+  by activity type, themeable and fully localized.
+version: 1.0.1
+homepage: https://github.com/SynorLab/activity_heatmap_calendar
+repository: https://github.com/SynorLab/activity_heatmap_calendar
+issue_tracker: https://github.com/SynorLab/activity_heatmap_calendar/issues
+topics:
+  - heatmap
+  - calendar
+  - chart
+  - activity
+  - visualization
+
+environment:
+  sdk: '>=3.11.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ">=0.19.0 <0.22.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  generate: true

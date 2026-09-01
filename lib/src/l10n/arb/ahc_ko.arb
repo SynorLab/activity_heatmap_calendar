@@ -1,0 +1,15 @@
+{
+  "@@locale": "ko",
+  "legendLess": "적음",
+  "legendMore": "많음",
+  "activityCount": "{count, plural, =0{활동 없음} other{활동 {count}개}}",
+  "noActivitiesTitle": "아직 기록이 없습니다",
+  "noActivitiesBody": "이 날에 기록된 활동이 없습니다.",
+  "close": "닫기",
+  "cellSemantics": "{date}, {count, plural, =0{활동 없음} other{활동 {count}개}}",
+  "filterBanner": "{type}(으)로 필터링됨",
+  "clearFilter": "필터 지우기",
+  "typeAll": "전체",
+  "today": "오늘",
+  "tooltipActivities": "{date}: {count, plural, =0{활동 없음} other{활동 {count}개}}"
+}

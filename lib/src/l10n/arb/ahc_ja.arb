@@ -1,0 +1,15 @@
+{
+  "@@locale": "ja",
+  "legendLess": "少ない",
+  "legendMore": "多い",
+  "activityCount": "{count, plural, =0{アクティビティなし} other{{count} 件のアクティビティ}}",
+  "noActivitiesTitle": "まだ記録がありません",
+  "noActivitiesBody": "この日のアクティビティは記録されていません。",
+  "close": "閉じる",
+  "cellSemantics": "{date}、{count, plural, =0{アクティビティなし} other{{count} 件}}",
+  "filterBanner": "{type} で絞り込み中",
+  "clearFilter": "絞り込みを解除",
+  "typeAll": "すべて",
+  "today": "今日",
+  "tooltipActivities": "{date}：{count, plural, =0{アクティビティなし} other{{count} 件}}"
+}

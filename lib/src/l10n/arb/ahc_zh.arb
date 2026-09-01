@@ -1,0 +1,15 @@
+{
+  "@@locale": "zh",
+  "legendLess": "少",
+  "legendMore": "多",
+  "activityCount": "{count, plural, =0{没有活动} other{{count} 个活动}}",
+  "noActivitiesTitle": "这天还没有记录",
+  "noActivitiesBody": "这一天没有任何活动记录。",
+  "close": "关闭",
+  "cellSemantics": "{date}，{count, plural, =0{没有活动} other{{count} 个活动}}",
+  "filterBanner": "已筛选：{type}",
+  "clearFilter": "清除筛选",
+  "typeAll": "全部",
+  "today": "今天",
+  "tooltipActivities": "{date}：{count, plural, =0{没有活动} other{{count} 个活动}}"
+}

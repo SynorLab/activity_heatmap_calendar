@@ -1,0 +1,15 @@
+{
+  "@@locale": "es",
+  "legendLess": "Menos",
+  "legendMore": "Más",
+  "activityCount": "{count, plural, =0{Sin actividades} =1{1 actividad} other{{count} actividades}}",
+  "noActivitiesTitle": "Aún no hay nada",
+  "noActivitiesBody": "No hay actividades registradas en este día.",
+  "close": "Cerrar",
+  "cellSemantics": "{date}, {count, plural, =0{sin actividades} =1{1 actividad} other{{count} actividades}}",
+  "filterBanner": "Filtrado por {type}",
+  "clearFilter": "Quitar filtro",
+  "typeAll": "Todas",
+  "today": "Hoy",
+  "tooltipActivities": "{count, plural, =0{Sin actividades} =1{1 actividad} other{{count} actividades}} el {date}"
+}

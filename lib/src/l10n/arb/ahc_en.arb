@@ -1,0 +1,77 @@
+{
+  "@@locale": "en",
+
+  "legendLess": "Less",
+  "@legendLess": {
+    "description": "Left-hand label of the heatmap intensity legend."
+  },
+
+  "legendMore": "More",
+  "@legendMore": {
+    "description": "Right-hand label of the heatmap intensity legend."
+  },
+
+  "activityCount": "{count, plural, =0{No activities} =1{1 activity} other{{count} activities}}",
+  "@activityCount": {
+    "description": "Number of activities on a day, used as the bottom sheet subtitle.",
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "noActivitiesTitle": "Nothing here yet",
+  "@noActivitiesTitle": {
+    "description": "Title of the empty state shown when a day has no activities."
+  },
+
+  "noActivitiesBody": "There are no activities recorded on this day.",
+  "@noActivitiesBody": {
+    "description": "Body of the empty state shown when a day has no activities."
+  },
+
+  "close": "Close",
+  "@close": {
+    "description": "Tooltip and semantics label of the bottom sheet close button."
+  },
+
+  "cellSemantics": "{date}, {count, plural, =0{no activities} =1{1 activity} other{{count} activities}}",
+  "@cellSemantics": {
+    "description": "Accessibility label announced for a single heatmap day cell.",
+    "placeholders": {
+      "date": { "type": "String" },
+      "count": { "type": "int" }
+    }
+  },
+
+  "filterBanner": "Filtered by {type}",
+  "@filterBanner": {
+    "description": "Banner shown above the heatmap while a type filter is active.",
+    "placeholders": {
+      "type": { "type": "String" }
+    }
+  },
+
+  "clearFilter": "Clear filter",
+  "@clearFilter": {
+    "description": "Tooltip of the button that removes the active type filter."
+  },
+
+  "typeAll": "All",
+  "@typeAll": {
+    "description": "Display name of the default ActivityType.all category."
+  },
+
+  "today": "Today",
+  "@today": {
+    "description": "Label marking the current day."
+  },
+
+  "tooltipActivities": "{count, plural, =0{No activities} =1{1 activity} other{{count} activities}} on {date}",
+  "@tooltipActivities": {
+    "description": "Hover tooltip shown over a day cell on desktop and web.",
+    "placeholders": {
+      "count": { "type": "int" },
+      "date": { "type": "String" }
+    }
+  }
+}

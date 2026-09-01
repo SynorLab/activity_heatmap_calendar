@@ -1,0 +1,15 @@
+{
+  "@@locale": "de",
+  "legendLess": "Weniger",
+  "legendMore": "Mehr",
+  "activityCount": "{count, plural, =0{Keine Aktivitäten} =1{1 Aktivität} other{{count} Aktivitäten}}",
+  "noActivitiesTitle": "Noch nichts vorhanden",
+  "noActivitiesBody": "An diesem Tag wurden keine Aktivitäten erfasst.",
+  "close": "Schließen",
+  "cellSemantics": "{date}, {count, plural, =0{keine Aktivitäten} =1{1 Aktivität} other{{count} Aktivitäten}}",
+  "filterBanner": "Gefiltert nach {type}",
+  "clearFilter": "Filter entfernen",
+  "typeAll": "Alle",
+  "today": "Heute",
+  "tooltipActivities": "{count, plural, =0{Keine Aktivitäten} =1{1 Aktivität} other{{count} Aktivitäten}} am {date}"
+}
